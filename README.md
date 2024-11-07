@@ -26,10 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         1 min           ████████████████▓░░░░░░░░   66.11 %
-Markdown     0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
-Prisma       0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+TypeScript   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
