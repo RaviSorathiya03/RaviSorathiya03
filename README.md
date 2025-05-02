@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://github.com/Ravidiya24052003" target="_blank">Ravi Sorathiya</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+<h1 align="center">Hi there 👋, I'm <a href="https://github.com/Ravidiya24052003" target="_blank">Ravi Sorathiya</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ravi-vaniya-319815302/" target="_blank">
@@ -9,45 +9,69 @@
   </a>
 </p>
 
+
 ---
+
 
 ### 👨‍💻 About Me
 
-🎓 I'm currently pursuing a **BSc in Information Technology** at *Atmiya University*.  
-💻 I'm passionate about **Software Development** and always strive for **academic and professional growth**.  
-🚀 I'm driven by the goal of becoming a **Software Engineer** and making a meaningful contribution in the IT industry.  
+- 🎓 Currently pursuing **BSc in Information Technology** at *Atmiya University*
+- 💻 Passionate about **Software Development** and dedicated to **academic excellence**
+- 🚀 Aspiring **Software Engineer**, focused on building impactful applications
+- 🌱 Currently learning **Web Development** with [100xDevs](https://app.100xdevs.com/)
+- 🌐 Currently learning **Blockchain Development**
+- 🔍 Exploring the power of **Natural Language to SQL** conversion
+- 💬 Ask me anything, I'm happy to help!
+
 
 ---
+
 
 ### 🛠️ Tech Stack
 
-- 💡 Languages: JavaScript, TypeScript, HTML5, CSS3, SQL
-- 🧰 Frameworks: React.js, Node.js, Express.js
-- 🔍 Databases: MongoDB, MySQL, PostgreSQL
-- 🐳 Tools: Docker, Git, GitHub, Linux
-- 🌐 Others: Prisma, Tailwind CSS, REST APIs
+- 💡 **Languages**: JavaScript, TypeScript, HTML5, CSS3, SQL, **Solidity**
+- ⚙️ **Frameworks/Libraries**: React.js, Node.js, Express.js
+- 🛢️ **Databases**: MongoDB, MySQL, PostgreSQL
+- 🐳 **Tools**: Docker, Git, GitHub, Linux
+- 🎨 **Styling**: Tailwind CSS, Bootstrap
+- 🌐 **Other**: REST APIs, Prisma ORM
+
 
 ---
 
-### 📌 Current Focus
 
-- 🔧 Building: **NL to SQL Query Converter**  
-- 🌱 Learning: **Web Development @ [100xDevs](https://app.100xdevs.com/)**  
-- 🤝 Always open to: **Collaborations, Freelance Projects, and Learning Opportunities**  
+### 📌 What I’m Working On
+
+- 🧠 **NL to SQL Query Converter**
+- 💻 Freelance & Open Source Contributions
+- 🌐 Building Full-Stack Web Apps
+- 📘 Improving problem-solving & DSA skills
+
 
 ---
+
 
 ### 📬 Contact Me
 
 - 📧 Email: **rsorathiya16@gmail.com**
 
+
 ---
 
-### 📊 Weekly Development Breakdown
+
+### ⏱️ This Week I Spent My Time On:
 
 <!--START_SECTION:waka-->
 ```txt
 No activity tracked
 <!--END_SECTION:waka-->
+
+
 📈 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravidiya24052003&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravidiya24052003&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </p> ```
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ravidiya24052003&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="180em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravidiya24052003&layout=compact&hide_border=true&langs_count=8&exclude_repo=KNN-Image-Classification" height="180em" /> </p>
+
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ravidiya24052003&theme=flat&no-frame=true&margin-w=10" /> </p>
+
+📌 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ravidiya24052003&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" /> </p>
