@@ -121,9 +121,7 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript                         7 hrs 21 mins   ████████████████▓░░░░░░░░   67.23 %
-C#                                 1 hr 16 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-PHP                                1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-Prisma                             21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Bash              
+  
+
+
+<!--END_SECTION:waka-->
