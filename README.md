@@ -1,132 +1,193 @@
-<h1 align="center">
-  Hey there 👋, I'm <a href="https://github.com/Ravidiya24052003" target="_blank">Ravi Sorathiya</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-</h1>
+<div align="center">
+  
+# 🚀 Welcome to My Digital Universe
 
-<h3 align="center">🚀 Full-Stack Dev in the Making | Web3 Explorer | B.Sc. IT Student from India 🇮🇳</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ravi%20Sorathiya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Web3%20Pioneer%20%7C%20Code%20Craftsman&descAlignY=52&descSize=18"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ravi-vaniya-319815302/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ravi_v_vaniya/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:rsorathiya16@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hey+there!+I'm+Ravi+%F0%9F%91%8B;Building+the+future%2C+one+commit+at+a+time+%F0%9F%94%A5" alt="Typing SVG" />
 
----
+<br/>
 
-## 🧠 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/ravi-vaniya-319815302/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/ravi_v_vaniya/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:rsorathiya16@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000)](https://github.com/Ravidiya24052003)
 
-- 🎓 Final year **B.Sc. IT** student at Atmiya University  
-- 💻 Learning full-stack development with **100xDevs**  
-- 🌐 Diving deep into **Web3 & Blockchain**  
-- 🛠 Building exciting stuff with **Rust, Solana, React, Node.js**  
-- 🧪 Constantly experimenting & contributing to open-source  
-- ✉️ Reach me: **rsorathiya16@gmail.com**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 🧬 DNA of a Developer
 
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-E44D26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-
-### 🧠 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-
-### 🧱 Web3 & Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-000000?style=flat-square&logo=solana&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
-
-### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ravidiya24052003&show_icons=true&theme=vue&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravidiya24052003&layout=compact&hide_border=true&langs_count=8&theme=vue" />
-</p>
-
----
-
-## ⚡ Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ravidiya24052003&bg_color=ffffff&color=4c1bcd&line=4c1bcd&point=1e1e1e&area=true&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ravidiya24052003&theme=flat&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## ✨ Current Focus
-
-> 🧠 I’m currently mastering **Web3 development**, particularly focusing on **Rust + Solana** smart contracts and blending them with full-stack applications.  
-> I love merging cutting-edge tech with real-world purpose.
-
----
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   15 hrs 37 mins  ██████████████████▒░░░░░░   72.75 %
-JavaScript   4 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
-SQL          1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Docker       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+```javascript
+const ravi = {
+    location: "Gujarat, India 🇮🇳",
+    education: "B.Sc. IT @ Atmiya University (Final Year)",
+    currentlyLearning: ["Web3", "Rust", "Solana"],
+    dailyRoutine: ["Code", "Coffee", "Commit", "Repeat"],
+    funFact: "I debug in my dreams 🌙",
+    
+    askMeAbout: [
+        "Full-Stack Development",
+        "Web3 & Blockchain",
+        "Building Products from 0 to 1"
+    ]
+};
 ```
 
-<!--END_SECTION:waka-->
+<div align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Ravidiya24052003&data=followers,repositories,stars,commits&theme=nautilus" />
+</div>
 
 ---
 
-## 📬 Let's Connect
+## ⚡ Tech Arsenal
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ravi-vaniya-319815302/" target="_blank">
-    <img src="https://img.shields.io/badge/Let's Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rsorathiya16@gmail.com">
-    <img src="https://img.shields.io/badge/Send Me An Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ravidiya24052003&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+### 🎨 Frontend Mastery
+  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&perline=8" />
+
+### ⚙️ Backend Wizardry
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,graphql,prisma&perline=8" />
+
+### 🔗 Web3 & Blockchain
+
+<img src="https://skillicons.dev/icons?i=solidity,rust&perline=4" />
+<br/>
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Anchor-9945FF?style=for-the-badge&logoColor=white" />
+
+### 🛠️ DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman,vscode,figma&perline=8" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ravidiya24052003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ravidiya24052003&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+
+<br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravidiya24052003&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" />
+
+</div>
+
+---
+
+## 🏆 Trophy Cabinet
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ravidiya24052003&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravidiya24052003/Ravidiya24052003/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravidiya24052003/Ravidiya24052003/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ravidiya24052003/Ravidiya24052003/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+---
+
+## ⏱️ Weekly Coding Breakdown
+
+<div align="center">
+
+```txt
+TypeScript   ████████████████████░░░░░   72.75%  ⚡ Primary Weapon
+JavaScript   █████░░░░░░░░░░░░░░░░░░░░   21.12%  🔧 Trusted Ally
+SQL          █░░░░░░░░░░░░░░░░░░░░░░░░   05.34%  📊 Data Whisperer
+Bash         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44%  🐚 Shell Magic
+Docker       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18%  🐋 Container Craft
+```
+
+</div>
+
+---
+
+## 🎯 Current Mission
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   🔮 Mastering the art of Web3 Development                      ║
+║   ⚙️  Building Solana programs with Rust & Anchor               ║
+║   🌐 Creating seamless full-stack dApps                         ║
+║   📚 Learning with 100xDevs community                           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 💭 Developer Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravidiya24052003&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Let's Build Something Amazing Together
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+
+<br/>
+
+**💼 Open for collaborations and opportunities**
+
+<a href="https://www.linkedin.com/in/ravi-vaniya-319815302/" target="_blank">
+  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rsorathiya16@gmail.com">
+  <img src="https://img.shields.io/badge/Send_Me_A_Mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <img src="https://img.shields.io/badge/Follow_Me-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ravidiya24052003&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
+
+<br/><br/>
+
+**⭐ If you like what I do, consider giving my repos a star!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
