@@ -216,7 +216,7 @@ RAVI.initiate(); // � ACTIVATED
 <br/><br/>
 
 <!-- Contribution Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravidiya24052003&custom_title=🔥%20CONTRIBUTION%20INFERNO%20🔥&bg_color=0d1117&color=FF0080&line=7928CA&point=FF0080&area_color=7928CA&area=true&hide_border=true&title_color=FF0080" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RaviSorathiya03&custom_title=🔥%20CONTRIBUTION%20INFERNO%20🔥&bg_color=0d1117&color=FF0080&line=7928CA&point=FF0080&area_color=7928CA&area=true&hide_border=true&title_color=FF0080" />
 
 </div>
 
