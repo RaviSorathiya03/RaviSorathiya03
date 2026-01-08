@@ -403,7 +403,7 @@ PROGRESS: ████████░░ 80%
 <br/><br/>
 
 <!-- Animated Closing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Initializing+Profile...;Loading+Projects+⚙️;Entering+The+Matrix+🧠;Welcome+👾" />
+<img src="https://typingsvg.vercel.app/api?lines=Hello+World;Welcome+to+My+GitHub&font=JetBrains+Mono&color=00FF41&center=true" />
 
 
 <br/><br/>
