@@ -403,7 +403,8 @@ PROGRESS: ████████░░ 80%
 <br/><br/>
 
 <!-- Animated Closing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=800&lines=⭐+DROP+A+STAR+IF+IMPRESSED+⭐;�+LET'S+BUILD+LEGENDARY+THINGS+�;💜+THANKS+FOR+THE+VISIT+💜;🚀+SEE+YOU+IN+THE+MATRIX+�" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Initializing+Profile...;Loading+Projects+⚙️;Entering+The+Matrix+🧠;Welcome+👾" />
+
 
 <br/><br/>
 
