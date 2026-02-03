@@ -106,15 +106,27 @@ const developer = {
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=RaviSorathiya03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RaviSorathiya03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+    alt="GitHub Stats"
+    height="180"
+  />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaviSorathiya03&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" height="180"/>
+  <img
+    src="https://streak-stats.demolab.com?user=RaviSorathiya03&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866"
+    alt="GitHub Streak"
+    height="180"
+  />
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviSorathiya03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviSorathiya03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"
+    alt="Top Languages"
+    height="180"
+  />
 
 </div>
 
@@ -124,7 +136,7 @@ const developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RaviSorathiya03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaviSorathiya03&show_icons=true&theme=tokyonight)
 
 </div>
 
