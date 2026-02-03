@@ -202,11 +202,11 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<a href="https://github.com/Ravidiya24052003">
+<a href="https://github.com/RaviSorathiya03">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ravidiya24052003&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
-<a href="https://github.com/Ravidiya24052003">
+<a href="https://github.com/RaviSorathiya03">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ravidiya24052003&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
