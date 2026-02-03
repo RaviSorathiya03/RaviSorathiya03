@@ -6,10 +6,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-vaniya-319815302/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsorathiya16@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravidiya24052003)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaviSorathiya03)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ravi_v_vaniya/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ravidiya24052003&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=RaviSorathiya03&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -109,17 +109,17 @@ const developer = {
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravidiya24052003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RaviSorathiya03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="180"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravidiya24052003&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaviSorathiya03&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" height="180"/>
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravidiya24052003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviSorathiya03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180"/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravidiya24052003&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaviSorathiya03&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -129,7 +129,7 @@ const developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ravidiya24052003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RaviSorathiya03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -203,16 +203,16 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 <div align="center">
 
 <a href="https://github.com/RaviSorathiya03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ravidiya24052003&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaviSorathiya03&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 <a href="https://github.com/RaviSorathiya03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ravidiya24052003&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaviSorathiya03&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
 
-> 💡 **Note:** Visit my [GitHub repositories](https://github.com/Ravidiya24052003?tab=repositories) to explore all my projects!
+> 💡 **Note:** Visit my [GitHub repositories](https://github.com/RaviSorathiya03?tab=repositories) to explore all my projects!
 
 ---
 
@@ -235,7 +235,7 @@ I'm actively seeking **full-time positions** and **freelance projects** where I 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-vaniya-319815302/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsorathiya16@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravidiya24052003)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaviSorathiya03)
 
 <br/>
 
