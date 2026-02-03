@@ -50,18 +50,15 @@ const developer = {
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50" height="50" alt="Clean Code"/>
-      <h3>Clean Architecture</h3>
+      <h3>🏗️ Clean Architecture</h3>
       <p>Writing maintainable, scalable code following SOLID principles and industry best practices</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50" height="50" alt="Performance"/>
-      <h3>Performance Focused</h3>
+      <h3>⚡ Performance Focused</h3>
       <p>Optimizing applications for speed, efficiency, and exceptional user experience</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/innovation.png" width="50" height="50" alt="Innovation"/>
-      <h3>Innovation Driven</h3>
+      <h3>💡 Innovation Driven</h3>
       <p>Staying ahead with latest technologies and implementing cutting-edge solutions</p>
     </td>
   </tr>
@@ -118,8 +115,6 @@ const developer = {
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviSorathiya03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180"/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaviSorathiya03&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -202,17 +197,16 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<a href="https://github.com/RaviSorathiya03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaviSorathiya03&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+### 🚀 Check Out My Work
 
-<a href="https://github.com/RaviSorathiya03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaviSorathiya03&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+I'm constantly building and learning. Visit my [**GitHub Repositories**](https://github.com/RaviSorathiya03?tab=repositories) to explore my latest projects including:
+
+- **Full-Stack Applications** - Modern web apps built with React, Node.js, and TypeScript
+- **Web3 Projects** - Decentralized applications and smart contracts
+- **Open Source Contributions** - Active participation in community projects
+- **Learning Projects** - Experiments with new technologies and frameworks
 
 </div>
-
-> 💡 **Note:** Visit my [GitHub repositories](https://github.com/RaviSorathiya03?tab=repositories) to explore all my projects!
 
 ---
 
@@ -261,6 +255,10 @@ I'm actively seeking **full-time positions** and **freelance projects** where I 
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<br/>
+
+---
+
+<sub>Made with ❤️ by Ravi Sorathiya</sub>
 
 </div>
